@@ -1,7 +1,7 @@
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cmvvopef0prg9qswnbdpsp0m6z33t6zho9ve6ea9&rid=giphy.gif&ct=g" width="40%" alt="Coding" align="right"/>
 
 <p width="60%" align="left">
-	<h1>Hey 👋, I'm <a href="https://github.com/Vishwa9011/">Faizan Akhtar!</a></h1>
+	<h1>Hey 👋, I'm <a href="https://github.com/tanuj8851/">Tanuj Kumar!</a></h1>
 
 ### Glad to see you here! &nbsp;
 
@@ -11,10 +11,10 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 </p>
 <p align="left">
-	<a href="https://www.linkedin.com/in/faizan-akhtar-884b32198/">
+	<a href="https://www.linkedin.com/in/tanuj-kumar-b89bb8172/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-        <a href="mailto:akhtarfaizan20@gmail.com">
+        <a href="mailto:tanujmaurya40@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
@@ -31,7 +31,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ### 🧩 Libraries & Framework
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
