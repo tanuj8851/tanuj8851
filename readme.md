@@ -54,7 +54,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akhtarfaizan20&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tanuj8851&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhtarfaizan20&hide_border=true&theme=radical" />
 </p>
 
