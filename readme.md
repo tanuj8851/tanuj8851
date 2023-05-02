@@ -19,7 +19,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 	<a href="https://drive.google.com/file/d/1DV9bpPd-tdPQjJV_oRm-0rc_C87CemC6/view?usp=share_link">
-		<img src="[[https://img.shields.io/badge/Gmail-D14836](https://cdn-icons-png.flaticon.com/512/6614/6614677.png](https://cdn-icons-png.flaticon.com/512/6614/6614677.png)" />
+		<h1>RESUME</h1>
 	</a>
 </p>
 </p>
