@@ -22,8 +22,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
 		<h4>Resume</h4>
 	</a> -->
 	<a href="https://tanuj8851.github.io/">
-		<h4>tanuj8851.github.io</h4>
-	</a> 
+		<h4>Portfolio</h4>
+	</a>
 </p>
 </p>
 
