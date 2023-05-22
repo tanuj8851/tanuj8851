@@ -23,6 +23,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 	</a> -->
 	<h3>
 	<a href="https://tanuj8851.github.io/">
+		<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fportfolio-icon&psig=AOvVaw0u-tBQGpIIv-PUoWtqYEEa&ust=1684856654184000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCZq6Wiif8CFQAAAAAdAAAAABAE">
 		PORTFOLIO
 	</a></h3>
 </p>
