@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp;
 
-![badge](https://visitor-badge.glitch.me/badge?page_id=akhtarfaizan20&style=flat-square&color=0088cc) 
+![badge](https://visitor-badge.glitch.me/badge?page_id=tanuj8851&style=flat-square&color=0088cc) 
 <p>
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
