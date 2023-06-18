@@ -18,6 +18,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
         <a href="mailto:tanujmaurya40@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
+	 [![text](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://tanuj8851.github.io)
 <!-- 	<a href="https://drive.google.com/file/d/1DV9bpPd-tdPQjJV_oRm-0rc_C87CemC6/view?usp=share_link">
 		<h4>Resume</h4>
 	</a> -->
