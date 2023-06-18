@@ -19,10 +19,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 
-       <a href="https://tanuj8851.github.io/">
-       <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
-       </a>
-	
+      
 	
 	
 </p>
