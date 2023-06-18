@@ -1,45 +1,75 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm Tanuj Kumar</h1>
-<h3 align="center">A passionate node backend developer from India</h3>
 
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cmvvopef0prg9qswnbdpsp0m6z33t6zho9ve6ea9&rid=giphy.gif&ct=g" width="40%" alt="Coding" align="right"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanuj8851" alt="tanujKumar" /></a> </p>
+<p width="60%" align="left">
+	<h1>Hey 👋, I'm <a href="https://github.com/tanuj8851/">Tanuj Kumar!</a></h1>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+### Glad to see you here! &nbsp;
 
-- 🔭 I’m currently working on **Node Backend Development**
+![badge](https://visitor-badge.glitch.me/badge?page_id=tanuj8851&style=flat-square&color=0088cc) 
+<p>
+I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
-- 🌱 I’m currently learning **NodeJS, Express, MongoDB, Socket.io**
-
-- 👯 I’m looking to contribute on **Open Source Project**
-
-- 👨‍💻 All of my projects are available at https://tanuj8851.github.io/
-- 💬 Ask me about **HTML, CSS, JavaScript, NodeJS, Express, MongoDB, Socket.IO**
-
-- 📫 How to reach me **tanujmaurya40@gmail.com**
-
-
-
-<h3 align="left">Connect with me:</h3>
+</p>
 <p align="left">
-<a href="https://linkedin.com/in/tanuj-kumar-b89bb8172/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="tanuj-kumar-581227221" height="30" /></a>
+	<a href="https://www.linkedin.com/in/tanuj-kumar-b89bb8172/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+        <a href="mailto:tanujmaurya40@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+<!-- 	<a href="https://drive.google.com/file/d/1DV9bpPd-tdPQjJV_oRm-0rc_C87CemC6/view?usp=share_link">
+		<h4>Resume</h4>
+	</a> -->
+	<h3>
+	<a href="https://tanuj8851.github.io/">
+		<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fportfolio-icon&psig=AOvVaw0u-tBQGpIIv-PUoWtqYEEa&ust=1684856654184000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCZq6Wiif8CFQAAAAAdAAAAABAE">
+		PORTFOLIO
+	</a></h3>
+</p>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="css3" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="express" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="css3" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="mongodb" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="nodejs" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="nodejs" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="nodejs" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="nodejs" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="nodejs" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanuj8851&show_icons=true&locale=en&layout=compact" alt="tanujkumar" /></p>
+## ⚡ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanuj8851&show_icons=true&locale=en" alt="tanuj8851" /></p>
+### 🚀 Languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanuj8851&" alt="tanuj8851" /></p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### 🧩 Libraries & Framework
+
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+### 🧑🏻‍💻 Tools & Platform
+
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
+### 💻 Workspace
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## 📈 Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tanuj8851&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhtarfaizan20&hide_border=true&theme=radical" />
+</p>
+
+## 🔝 Most used languages
+
+<p align="center">
+	<img width="45%" align="center" alt="languages" src=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akhtarfaizan20&theme=react&line_height=40&hide=css"" />
+</p>
+
+---
